@@ -22,6 +22,7 @@ public class MyNIO {
 				foc.write(byteBuffer);
 				//¶Á--¡·Ð´
 				byteBuffer.clear();
+				//
 			}
 		
 		} catch (Exception e) {
